@@ -1,0 +1,27 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+
+#one{
+position:relative;
+ margin-left: 860px;
+}
+label{
+  position:relative; 
+  margin-left: 851px;
+}
